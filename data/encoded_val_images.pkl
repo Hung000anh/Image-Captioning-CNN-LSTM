@@ -1,0 +1,1 @@
+Placeholder for encoded_val_images.pkl. The real file is too large for GitHub.
