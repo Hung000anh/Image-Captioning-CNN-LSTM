@@ -1,0 +1,1 @@
+Placeholder for glove.6B.50d.txt. The real file is too large for GitHub.
