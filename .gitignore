@@ -1,4 +1,0 @@
-data/coco-dataset/annotations_trainval2014/annotations/captions_train2014.json
-data/embedding/glove.6B.50d.txt
-data/features/encoded_train_images.pkl
-data/features/encoded_val_images.pkl
