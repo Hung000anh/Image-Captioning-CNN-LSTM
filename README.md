@@ -31,6 +31,15 @@ The model's performance is evaluated using the BLEU (Bilingual Evaluation Unders
 | BLEU-3 | 0.254761 |
 | BLEU-4 | 0.163436 |
 
+**BLEU Scores on COCO Test Set:**
+
+|Metrix  | Score    |
+| ------ | -------- |
+| BLEU-1 | 0.569866 |
+| BLEU-2 | 0.376144 |
+| BLEU-3 | 0.248787 |
+| BLEU-4 | 0.159296 |
+
 > 📌 *Higher BLEU-1 indicates good word-level accuracy, while BLEU-4 reflects fluency and n-gram correctness.*
 
 
